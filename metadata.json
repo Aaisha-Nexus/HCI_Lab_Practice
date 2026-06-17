@@ -1,0 +1,6 @@
+{
+  "name": "HCI JavaScript & React Lab Study Hub",
+  "description": "An interactive, visual learning platform and exam simulator covering essential JavaScript and React topics for the HCI Lab Exam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
